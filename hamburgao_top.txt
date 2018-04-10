@@ -1,0 +1,45 @@
+{
+	"nome":"rebellium",
+	"receitas": [
+	    		{
+	      	"nome": "Humble Cheese Burger",
+	      	"descrição": "Hamburgão com queijo show de bola",
+	      	"ingredientes": 
+	      	[ 
+	      		{
+	      			"unidade": "g",
+	      			"numero": 300,
+	      			"nome": "peito bovino"
+	      			
+	      		},
+	      		{
+	      			"unidade": "g",
+	      			"numero": 100,
+	      			"nome": "muçarela"
+	      		},
+	      		{
+	      			"unidade": "unidade",
+	      			"numero": 0.5,
+	      			"nome": "cebola"
+	      		},
+	      		{
+	      			"unidade": "ml",
+	      			"numero": 30,
+	      			"nome": "cachaça"
+	      		}
+	      	  ],
+	      	"preparo": [
+	      		"- Divida a carne em duas partes de 150g; ",
+	      		"- Molde a carne em forma de bola e jogue-a contra a palma da mão repetidas vezes; ",
+	      		"- Corte a cebola em tiras longas; ",
+	      		"- Frite a cebola em uma frigideira e depois flambe com cachaça; ",
+	      		"- Modele os hambúrgueres e frite-os na chapa ou frigideira; ",
+	      		"- Salgue os hambúrgueres e vire quando estiverem selados; ",
+	      		"- Adicione o queijo e deixe derreter; ",
+	      		"- Monte o sanduíche com pão, carne, queijo, carne, queijo, cebola e pão."
+	      	],
+	"imageURL": "https://www.justopenedlondon.com/wp-content/uploads/2017/04/Bleecker.jpg"
+	      	
+	      }	
+	]
+}
