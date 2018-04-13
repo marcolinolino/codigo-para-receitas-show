@@ -1,0 +1,223 @@
+{
+	"nome":"rebellium",
+	"receitas": [
+		{
+			"nome": "miojo à parisiense",
+	      	"descrição": "Uma receita de macarrão com molho branco por um custo baixíssimo",
+	      	"ingredientes": 
+	      	[ 
+	      		{
+	      			"unidade": "g",
+	      			"numero": 100,
+	      			"nome": "presunto"
+	      			
+	      		},
+	      		{
+	      			"unidade": "pacote",
+	      			"numero": 1,
+	      			"nome": "miojo"
+	      		},
+	      		{
+	      			"unidade": "g",
+	      			"numero": 100,
+	      			"nome": "ervilha"
+	      		},
+	      		{
+	      			"unidade": "ml",
+	      			"numero": 200,
+	      			"nome": "creme de leite"
+	      		},
+	      	    {
+	      			"unidade": "g",
+	      			"numero": 50,
+	      			"nome": "queijo ralado"
+	      		}
+	      	 
+	      	 
+	      	  ],
+	      	"preparo": [
+	      		"- Coloque o miojo em água fervendo por 3 minutos sem usar o tempero; ",
+	      		"- Retire e reserve; ",
+	      		"- Em uma panela em fogo baixo, coloque o creme de leite; ",
+	      		"- Pique o presunto e adicione ao creme de leite; ",
+	      		"- Adicione também a ervilha e o tempero do miojo; ",
+	      		"- Adicione 30g de queijo ralado e mexa bem; ",
+	      		"- Desligue o fogo e cubra o miojo com o molho; ",
+	      		"- Polvilhe 20g de queijo ralado sobre o miojo."
+	      	],
+	"imageURL": "http://www.receitasanamaria.net/wp-content/uploads/2014/12/receita-massa-ao-molho-parisiense-610x300.jpg"
+	      	
+	      },
+	      {"nome": "Pão de Alho",
+	      	"descrição": "Aprenda como fazer Pão de Alho ao melhor estilo humildão. Fácil, simples e gostoso",
+	      	"ingredientes": 
+	      	[ 
+	      		{
+	      			"unidade": "unidades",
+	      			"numero": 4,
+	      			"nome": "pães franceses"
+	      			
+	      		},
+	      		{
+	      			"unidade": "pote",
+	      			"numero": 1,
+	      			"nome": "maionese"
+	      		},
+	      		{
+	      			"unidade": "cabeça",
+	      			"numero": 1,
+	      			"nome": "alho"
+	      		},
+	      		{
+	      			"unidade": "pacote",
+	      			"numero": 1,
+	      			"nome": "orégano"
+	      		}
+	      	  ],
+	      	"preparo": [
+	      		"- Descasque e pique oito dentes de alho; ",
+	      		"- Misture em oito colheres de maionese; ",
+	      		"- Adicione orégano à gosto; ",
+	      		"- Passe a maionese nos pães abertos na metade; ",
+	      		"- Leve ao forno por 3 minutos em fogo alto. "
+	      		
+	      	
+	      	   ],
+	"imageURL": "http://megareceitas.com.br/wp-content/uploads/2014/03/pao-de-alho-cf05bb-640x340.jpg"
+	      	
+	      },
+           {"nome": "Strogonoff de Frango",
+	      	"descrição": "Strogonoff simples e supimpa",
+	      	"ingredientes": 
+	      	[ 
+	      		{
+	      			"unidade": "g",
+	      			"numero": 250,
+	      			"nome": "peito de frango"
+	      			
+	      		},
+	      		{
+	      			"unidade": "pacote",
+	      			"numero": 1,
+	      			"nome": "molho de tomate"
+	      		},
+	      		{
+	      			"unidade": "caixa",
+	      			"numero": 1,
+	      			"nome": "creme de leite"
+	      		},
+	      		{
+	      			"unidade": "unidade",
+	      			"numero": 0.25,
+	      			"nome": "cebola"
+	      		},
+	      	    {
+	      			"unidade": "dentes",
+	      			"numero": 4,
+	      			"nome": "alho"
+	      		},
+	      	     {
+	      			"unidade": "xicara",
+	      			"numero": 0.50,
+	      			"nome": "arroz"
+	      	     }
+	      	  ],
+	      	"preparo": [
+	      		"- Pique metade da cebola ed o alho e refogue em óleo; ",
+	      		"- Adicione o arroz e depois 1 xícara de água; ",
+	      		"- Deixe o arroz cozinhar até secar a água; ",
+	      		"- Corte o peito de frango em cubinhos; ",
+	      		"- Pique a outra metade da cebola e do alho e refogue em óleo; ",
+	      		"- Frite o frango junto com o a cebola e o alho; ",
+	      		"- Acrescente sal e o molho de tomate e deixe cozinhar por 5 minutos; ",
+	      		"- Desligue o fogo e acrescente o creme de leite."
+	      	],
+	"imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCvTVCP47XjcJFQDWS5eT0JeGas478KHY7__985R2ws3Ow1EvOEM48Ymy"
+	      	
+	      },
+	      {"nome": "Buraco Quente (aka Mexicano)",
+	      	"descrição": "( ͡° ͜ʖ ͡°)",
+	      	"ingredientes": 
+	      	[ 
+	      		{
+	      			"unidade": "g",
+	      			"numero": 100,
+	      			"nome": "presunto"
+	      			
+	      		},
+	      		{
+	      			"unidade": "pacote",
+	      			"numero": 1,
+	      			"nome": "miojo"
+	      		},
+	      		{
+	      			"unidade": "g",
+	      			"numero": 100,
+	      			"nome": "ervilha"
+	      		},
+	      		{
+	      			"unidade": "ml",
+	      			"numero": 200,
+	      			"nome": "creme de leite"
+	      		},
+	      	    {
+	      			"unidade": "g",
+	      			"numero": 50,
+	      			"nome": "queijo ralado"
+	      		}
+	      	 
+	      	 
+	      	  ],
+	      	"preparo": [
+	      		"- Coloque o miojo em água fervendo por 3 minutos sem usar o tempero; ",
+	      		"- Retire e reserve; ",
+	      		"- Em uma panela em fogo baixo, coloque o creme de leite; ",
+	      		"- Pique o presunto e adicione ao creme de leite; ",
+	      		"- Adicione também a ervilha e o tempero do miojo; ",
+	      		"- Adicione 30g de queijo ralado e mexa bem; ",
+	      		"- Desligue o fogo e cubra o miojo com o molho; ",
+	      		"- Polvilhe 20g de queijo ralado sobre o miojo."
+	      	],
+	"imageURL": "http://www.receitasanamaria.net/wp-content/uploads/2014/12/receita-massa-ao-molho-parisiense-610x300.jpg"
+	      	
+	      },
+	      {"nome": "Pão de Alho",
+	      	"descrição": "Aprenda como fazer Pão de Alho ao melhor estilo humildão. Fácil, simples e gostoso",
+	      	"ingredientes": 
+	      	[ 
+	      		{
+	      			"unidade": "unidades",
+	      			"numero": 4,
+	      			"nome": "pães franceses"
+	      			
+	      		},
+	      		{
+	      			"unidade": "pote",
+	      			"numero": 1,
+	      			"nome": "maionese"
+	      		},
+	      		{
+	      			"unidade": "cabeça",
+	      			"numero": 1,
+	      			"nome": "alho"
+	      		},
+	      		{
+	      			"unidade": "pacote",
+	      			"numero": 1,
+	      			"nome": "orégano"
+	      		}
+	      	  ],
+	      	"preparo": [
+	      		"- Descasque e pique oito dentes de alho; ",
+	      		"- Misture em oito colheres de maionese; ",
+	      		"- Adicione orégano à gosto; ",
+	      		"- Passe a maionese nos pães abertos na metade; ",
+	      		"- Leve ao forno por 3 minutos em fogo alto. "
+	      		
+	      	
+	      	   ],
+	"imageURL": "http://megareceitas.com.br/wp-content/uploads/2014/03/pao-de-alho-cf05bb-640x340.jpg"
+	      	
+	      }
+	]
+}
